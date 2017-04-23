@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\TutorialInfo\Scripts\TutorialInfo.cs">
+    <Files>
+      <File FileName="Assets\temp_move.cs" Line="12" Column="2" />
+      <File FileName="Assets\rotate.cs" Line="12" Column="56" />
+      <File FileName="Assets\move.cs" Line="24" Column="39" />
+      <File FileName="Assets\button_temp.cs" Line="17" Column="3" />
+      <File FileName="Assets\gameover.cs" Line="7" Column="2" />
+      <File FileName="Assets\win.cs" Line="8" Column="30" />
+      <File FileName="Assets\_Completed-Assets\Scripts\BombsController.cs" Line="39" Column="42" />
+      <File FileName="Assets\_Completed-Assets\Scripts\CompleteAIPlayerController.cs" Line="94" Column="41" />
+      <File FileName="Assets\TutorialInfo\Scripts\TutorialInfo.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
